@@ -1,6 +1,6 @@
 <?php
 
-// 应用最大公告数
+// 引用最大公约数
 require_once "./GreaterCommonDivisor.php";
 
 /**
